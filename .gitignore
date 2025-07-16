@@ -8,9 +8,7 @@
 # Ignore crash logs
 crash.log
 
-# Ignore override files
-*.tfvars
-*.tfvars.json
+
 
 # Ignore the lock file (optional — include only if needed)
 .terraform.lock.hcl
