@@ -8,7 +8,5 @@
 # Ignore crash logs
 crash.log
 
-
-
 # Ignore the lock file (optional — include only if needed)
 .terraform.lock.hcl
