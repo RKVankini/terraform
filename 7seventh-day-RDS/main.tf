@@ -5,21 +5,21 @@ locals {
   }
 }
 
-resource "aws_secretsmanager_secret" "rds_secret" {
-  name        = var.secret_name
-  description = "RDS credentials for ${var.db_identifier} instance"
-}
+#resource "aws_secretsmanager_secret" "rds_secret" {
+ # name        = var.secret_name
+  #description = "RDS credentials for ${var.db_identifier} instance"
+#}
 
-resource "aws_secretsmanager_secret_version" "rds_secret_version" {
-  secret_id     = aws_secretsmanager_secret.rds_secret.id
-  secret_string = jsonencode({
-    username = local.rds_credentials.username
-    password = local.rds_credentials.password
-    engine   = var.db_engine
-    dbname   = var.db_name
-    port     = var.db_port
-  })
-}
+#resource "aws_secretsmanager_secret_version" "rds_secret_version" {
+#  secret_id     = aws_secretsmanager_secret.rds_secret.id
+#  secret_string = jsonencode({
+#    username = local.rds_credentials.username
+#    password = local.rds_credentials.password
+#    engine   = var.db_engine
+#    dbname   = var.db_name
+ #   port     = var.db_port
+#  })
+#}
 
 resource "aws_vpc" "name" {
   cidr_block = var.vpc_cidr

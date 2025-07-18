@@ -1,1 +1,1 @@
-secret_name = "your-secret-name"
+secret_name = "Terrraform-Secret"
