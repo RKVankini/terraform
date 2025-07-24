@@ -1,0 +1,5 @@
+ami_id = "ami-0a1235697f4afa8a4"
+key = "RKV"
+az = "ap-south-1a"
+instance_type = "t2.micro"
+# region = "ap-south-1"
