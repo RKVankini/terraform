@@ -1,0 +1,9 @@
+aws_region         = "ap-south-1"                      # Deploy in Mumbai region
+db_identifier      = "rk-terra-mysql-db"               # RDS instance name with RK-terra prefix
+db_engine          = "mysql"                           # DB engine
+db_instance_class  = "db.t3.micro"                     # Free-tier eligible instance
+db_username        = "admin"                           # DB admin username
+db_password        = "Password123!"                    # DB admin password (insecure in real-world)
+db_name            = "TerraTest"                             # Initial DB name
+allocated_storage  = 20                                # Storage size in GB
+sql_file_path      = "./init.sql"                      # Local SQL file path
