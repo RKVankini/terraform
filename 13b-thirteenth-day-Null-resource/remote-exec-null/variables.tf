@@ -27,7 +27,7 @@ variable "private_subnets" {
 
 variable "ami" {
   description = "AMI for EC2 (Ubuntu)"
-  default     = "ami-0261755bbcb8c4a84" # Ubuntu AMI Mumbai
+  default     = "ami-0f918f7e67a3323f0" # Ubuntu AMI Mumbai
 }
 
 variable "instance_type" {
