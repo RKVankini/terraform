@@ -5,5 +5,5 @@ resource "aws_instance" "name" {
     tags = {
       Name = "third day"
     }
-  
 } 
+  
