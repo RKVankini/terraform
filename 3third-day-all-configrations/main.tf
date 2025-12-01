@@ -6,4 +6,3 @@ resource "aws_instance" "name" {
       Name = "third day"
     }
 }
-  
