@@ -15,4 +15,4 @@ resource "aws_instance" "name" {
 #   lifecycle {
 #     prevent_destroy = true
 #   }
-} 
+}
