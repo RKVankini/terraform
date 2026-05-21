@@ -1,4 +1,4 @@
-# Terraform Null Resource Project
+# Terraform Null Resource Practice
 
 This project demonstrates how to use Terraform `null_resource` for executing commands, scripts, and automation tasks without creating actual infrastructure resources.
 
