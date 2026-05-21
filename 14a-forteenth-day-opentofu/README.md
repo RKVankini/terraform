@@ -1,4 +1,4 @@
-# OpenTofu Project
+# OpenTofu Practice
 
 This project demonstrates how to use OpenTofu for Infrastructure as Code (IaC) automation on AWS Cloud.
 
