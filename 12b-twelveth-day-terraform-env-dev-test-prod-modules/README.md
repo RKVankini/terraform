@@ -1,4 +1,4 @@
-# Terraform Environment-Based Dev, Test, and Prod Modules Project
+# Terraform Environment-Based Dev, Test, and Prod Modules Practice
 
 This project demonstrates how to use Terraform Modules for managing multiple environments such as:
 
