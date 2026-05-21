@@ -1,4 +1,4 @@
-# Terraform Taint Project
+# Terraform Taint Practice
 
 This project demonstrates how to use Terraform `taint` to force recreation of infrastructure resources.
 
