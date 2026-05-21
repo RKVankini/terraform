@@ -1,4 +1,4 @@
-# Terraform Import Project
+# Terraform Import Practice
 
 This project demonstrates how to use Terraform Import to bring existing AWS infrastructure resources under Terraform management.
 
