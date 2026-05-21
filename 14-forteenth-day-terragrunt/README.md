@@ -1,4 +1,4 @@
-# Terragrunt Project
+# Terragrunt Practice
 
 This project demonstrates how to use Terragrunt with Terraform for managing reusable, scalable, and DRY (Don’t Repeat Yourself) infrastructure code.
 
