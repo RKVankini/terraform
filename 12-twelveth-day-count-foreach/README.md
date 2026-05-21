@@ -1,4 +1,4 @@
-# Terraform Count and for_each Project
+# Terraform Count and for_each Practice
 
 This project demonstrates how to use Terraform `count` and `for_each` meta-arguments for creating multiple resources dynamically in AWS infrastructure.
 
