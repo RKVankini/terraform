@@ -1,4 +1,4 @@
-# Terraform Target Resource Project
+# Terraform Target Resource Practice
 
 This project demonstrates how to use Terraform `-target` option to apply, plan, or destroy specific resources instead of managing the entire infrastructure.
 
