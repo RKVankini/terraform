@@ -1,4 +1,4 @@
-# Terraform Provisioners Project
+# Terraform Provisioners Practice
 
 This project demonstrates how to use Terraform Provisioners for executing scripts and commands during infrastructure creation or destruction.
 
