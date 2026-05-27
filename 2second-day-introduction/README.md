@@ -1,4 +1,4 @@
-# Terraform Introduction Practice
+# Terraform Introduction
 
 This practice demonstrates the basic introduction and core concepts of Terraform for Infrastructure as Code (IaC).
 
