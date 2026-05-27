@@ -1,4 +1,4 @@
-# Terraform Installation Practice
+# Terraform Installation
 
 This practice demonstrates how to install and configure Terraform for Infrastructure as Code (IaC) automation.
 
